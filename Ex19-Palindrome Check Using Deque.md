@@ -1,5 +1,4 @@
 # Ex19 Palindrome Check Using Deque
-## DATE: 06-11-2025
 ## AIM:
 To design a program that checks whether a given message is a palindrome by removing all non-alphanumeric characters, converting all characters to lowercase, and using a deque data structure for comparison.
 
@@ -22,8 +21,8 @@ To design a program that checks whether a given message is a palindrome by remov
 ```java
 /*
 Program to checks whether a given message is a palindrome by removing all non-alphanumeric characters.
-Developed by: JANARTHANAN K
-Register Number: 212223040072
+Developed by: SURJITH D
+Register Number: 212223043006
 */
 
 import java.util.*;
